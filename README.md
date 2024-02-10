@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sugam Neupane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img allign="right" alt="coding-img" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="coding-img" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsugam&label=Profile%20views&color=0e75b6&style=flat" alt="nsugam" /> </p>
 

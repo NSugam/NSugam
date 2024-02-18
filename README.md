@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://neupanesugam.com.np/](https://neupanesugam.com.np/)
 

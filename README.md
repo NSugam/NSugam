@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://neupanesugam.com.np/](https://neupanesugam.com.np/)
 
-- 💬 Ask me about **Html/CSS, Python, Django, PlanetScaleDB**
+- 💬 Ask me about **Html/CSS, Python, ReactJS, MongoDB, ExpressJS **
 
 - 📫 How to reach me **nsugam248@gmail.com**
 

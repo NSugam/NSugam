@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sugam Neupane</h1>
-<h3 align="center">A passionate fullstack(MERN stack) developer from India</h3>
+<h3 align="center">A passionate Fullstack(MERN stack) developer from India</h3>
 
 <img align="right" alt="coding-img" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 

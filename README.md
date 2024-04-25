@@ -23,7 +23,6 @@
 <a href="https://www.youtube.com/channel/UChDlFVs5rPjknpWqieyCz6Q" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="forward technical" height="30" width="40" /></a>
 </p>
 
-<details>
 Languages:
 
 <p>
@@ -58,7 +57,6 @@ Databases:
      <a><img src="https://img.shields.io/badge/Firebase-FF8A65?style=for-the-badge&logo=firebase&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
 </p>
-</details>
      
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nsugam&show_icons=true&rank_icon=github&theme=radical" alt="nsugam" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsugam&show_icons=true&locale=en&layout=compact" alt="nsugam" /></p> -->

@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/channel/UChDlFVs5rPjknpWqieyCz6Q" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="forward technical" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Skills:</h3>
+<h3 align="center">Languages and Skills:</h3>
 
 <p>
     <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>

@@ -24,10 +24,6 @@
 </p>
 
 <details>
-    <summary> 💪 <b> Click here for my skills </b></summary>
-
-<br />
-    
 Languages:
 
 <p>

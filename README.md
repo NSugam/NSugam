@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://neupanesugam.com.np/](https://neupanesugam.com.np/)
 
-- 💬 Ask me about **HTML/CSS, Python, ReactJS, MongoDB, ExpressJS **
-
 - 📫 How to reach me **nsugam248@gmail.com**
 
 - 📄 Know about my experiences [https://neupanesugam.com.np/](https://neupanesugam.com.np/)

@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://neupanesugam.com.np/](https://neupanesugam.com.np/)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ns_neupane09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ns_neupane09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sugamneupane" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugamneupane" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/channel/UChDlFVs5rPjknpWqieyCz6Q" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="forward technical" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Skills:</h3>
+<h2 align="left">Languages and Skills:</h2>
 
 <p>
     <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>

@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://neupanesugam.com.np/](https://neupanesugam.com.np/)
+- 👨‍💻 All of my projects are available at [https://neupanesugam.com.np/](https://www.neupanesugam.com.np/)
 
-- 📫 How to reach me **nsugam248@gmail.com**
+- 📫 How to reach me **contact@neupanesugam.com.np**
 
-- 📄 Know about my experiences [https://neupanesugam.com.np/](https://neupanesugam.com.np/)
+- 📄 Know about my experiences [https://neupanesugam.com.np/](https://www.neupanesugam.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

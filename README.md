@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsugam&label=Profile%20views&color=0e75b6&style=flat" alt="nsugam" /> </p>
 
-- 🔭 I’m currently studying **Computer Science and Engineering**
+- 🔭 A **Computer Science and Engineering** graduate
 
 - 🌱 I’m currently learning **MERN Stack**
 

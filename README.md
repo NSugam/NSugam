@@ -55,4 +55,4 @@ Databases:
     <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
 </p>
      
-<p><img align="left" src="https://github-stats.neupanesugam.com.np?user=NSugam&theme=highcontrast&border_radius=10" alt="nsugam" /></p>
+<p><img align="left" src="https://github-stats.neupanesugam.com.np?user=NSugam&theme=highcontrast&hide_border=true&border_radius=10" alt="nsugam" /></p>

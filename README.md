@@ -28,6 +28,7 @@
 <p>
     <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+    <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><a>
 </p>
 
 Backend frameworks:
@@ -35,10 +36,7 @@ Backend frameworks:
 <p>
     <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><a>
-    <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /><a>
-
 </p>
 
 Frontend frameworks:

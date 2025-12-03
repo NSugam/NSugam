@@ -55,6 +55,4 @@ Databases:
     <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
 </p>
      
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nsugam&show_icons=true&rank_icon=github&theme=radical" alt="nsugam" /></p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsugam&show_icons=true&locale=en&layout=compact" alt="nsugam" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsugam&show_icons=true&locale=en" alt="nsugam" /></p> -->
+<p><img align="left" src="https://github-stats.neupanesugam.com.np?user=NSugam&theme=highcontrast&border_radius=10" alt="nsugam" /></p>
